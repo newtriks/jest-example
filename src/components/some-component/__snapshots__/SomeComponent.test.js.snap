@@ -1,0 +1,8 @@
+exports[`test renders SomeComponent as expected 1`] = `
+<div>
+  <p
+    className="message">
+    BOOM
+  </p>
+</div>
+`;
